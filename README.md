@@ -234,6 +234,14 @@ AURA demonstrates how modern GenAI systems can be designed using:
 
 It reflects real-world production constraints where **reliability matters more than full autonomy**.
 
----
+
+## Get the Code
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/abhijitdeshpande83/aura.git
+cd aura
+```
 
 > This project focuses on **production-grade GenAI system design, not just model experimentation.**
